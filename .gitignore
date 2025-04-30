@@ -1,0 +1,22 @@
+# Pliki wykonywalne
+*.exe
+*.out
+*.app
+
+# Katalogi budowania
+build/
+bin/
+obj/
+
+# Qt Creator
+*.pro.user
+*.autosave
+
+# Biblioteki zewnętrzne
+SFML/
+sfml/
+external/
+
+# Inne tymczasowe pliki
+*.log
+*.tmp
