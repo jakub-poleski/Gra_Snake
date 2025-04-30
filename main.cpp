@@ -5,7 +5,7 @@
 #include <time.h>
 
 using namespace sf;
-
+//ten kod dodaje dla testu
 enum GameState { MENU, GRA, USTAWIENIA, WYJSCIE, GAMEOVER };
 Font globalFont;
 void initializeText(Text& text, const Font& font, const std::string& content, int size, float x, float y, Color color = Color::Black)   //funkcja do tekstu
